@@ -25,7 +25,6 @@ answerButton.addEventListener("click", () => {
   } else {
     answerButton.textContent = "Show answer";
   }
-<<<<<<< HEAD
 
   richtig: 
   if (answerButton.textContent == "Hide answer") {
@@ -34,7 +33,5 @@ answerButton.addEventListener("click", () => {
     answerButton.textContent = "Hide answer";
   }
 
-=======
->>>>>>> refs/remotes/origin/main
   */
 });
