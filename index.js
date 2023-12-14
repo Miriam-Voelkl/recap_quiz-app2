@@ -25,5 +25,6 @@ answerButton.addEventListener("click", () => {
   } else {
     answerButton.textContent = "Show answer";
   }
+
   */
 });
