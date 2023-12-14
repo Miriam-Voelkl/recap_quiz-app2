@@ -1,0 +1,23 @@
+.form {
+  display: grid;
+  gap: 10px;
+  border: 1px solid var(--black);
+  margin: 7rem auto;
+  width: 80%;
+  max-width: 450px;
+  padding: 1rem;
+}
+
+.characters-left {
+  font-size: var(--fs-300);
+  text-align: right;
+}
+
+button[type="submit"] {
+  background: var(--secondary);
+  color: var(--white);
+  border: none;
+  display: block;
+  margin: 0 auto 1rem auto;
+  padding: 0.5rem;
+}
